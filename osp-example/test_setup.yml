@@ -10,6 +10,7 @@
   - name: setup
     setup:
     register: result
+
   - debug: var=result
     tags:
      - test_inventory

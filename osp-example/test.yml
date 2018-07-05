@@ -8,6 +8,3 @@
   tasks:
   - name: Ping
     ping:
-    tags:
-     - test_inventory
- 
